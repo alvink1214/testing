@@ -30,7 +30,7 @@ def main():
 
     
 
-    draw_oval_block(canvas, 0, 0, WIDTH / 2, HEIGHT / 2)
+    draw_oval_block(canvas, 0, 0, WIDTH / 1, HEIGHT / 2)
 
     # 
     draw_oval_block(canvas, WIDTH / 2, HEIGHT / 2, (WIDTH / 2) - 1,\
